@@ -15,15 +15,12 @@ Sou estudante de **Ciência da Computação na UPE** (Universidade de Pernambuco
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Linguagens de Programação
-<p>
-  ### 💻 Linguagens de Programação
-
-[![Java](https://shields.io)](https://oracle.com)
-[![Python](https://shields.io)](https://python.org)
-[![JavaScript](https://shields.io)](https://mozilla.org)
-[![GDScript](https://shields.io)](https://godotengine.org)
-
-</p>
+<ul>
+  <li>Java</li>
+  <li>Python</li>
+  <li>GDscript</li>
+  <li>JavaScript</li>
+</ul>
 
 ### 🧰 Ambiente e Frameworks
 - **IDE Principal:** VS Code
