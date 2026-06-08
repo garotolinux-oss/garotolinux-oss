@@ -17,7 +17,7 @@ Sou estudante de **Ciência da Computação na UPE** (Universidade de Pernambuco
 ### 💻 Linguagens de Programação
 <p>
   <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Python" />
+  <img src="![Python]https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="GDScript" />
 </p>
