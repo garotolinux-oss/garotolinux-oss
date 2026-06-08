@@ -32,7 +32,7 @@ Sou estudante de **Ciência da Computação na UPE** (Universidade de Pernambuco
 ## 🤝 Conecte-se Comigo
 
 Deseja conversar sobre oportunidades, parcerias ou projetos inovadores? Fique à vontade para me mandar uma mensagem!
+<a href="https://www.linkedin.com/in/joao-vitor-ribeiro-99311434b?utm_source=share_via&utm_content=profile&utm_medium=member_android)">Linkedin</a>
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/joao-vitor-ribeiro-99311434b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 _Mal posso esperar para criarmos algo incrível juntos!_
