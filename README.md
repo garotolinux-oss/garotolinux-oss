@@ -28,13 +28,6 @@ Sou estudante de **Ciência da Computação na UPE** (Universidade de Pernambuco
 
 ---
 
-## 📈 Estatísticas do GitHub
-<p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180M" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180M" />
-</p>
-
----
 
 ## 🤝 Conecte-se Comigo
 
